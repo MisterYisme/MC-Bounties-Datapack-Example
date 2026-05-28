@@ -1,0 +1,12 @@
+{
+    "version": 1,
+    "id": "example_objective_pool",
+    "Entries": [
+        {
+            "id": "example",
+            "item": "examplemod:exampleitem",
+            "cost": 1,
+            "weight": 1
+        }
+    ]
+}

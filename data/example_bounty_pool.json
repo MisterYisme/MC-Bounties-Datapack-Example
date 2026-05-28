@@ -1,0 +1,11 @@
+{
+    "version": 1,
+    "id": "example_bounty_pool",
+    "Entries": [
+        {
+            "id": "example",
+            "objective_pool": "example_objective_pool",
+            "reward_pool": "example_reward_pool"
+        }
+    ]
+}
